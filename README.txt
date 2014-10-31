@@ -1,6 +1,12 @@
+ECS 12: Introduction to Media Computation
+
+Taken Winter 2014
+
+Introduction to key computational ideas necessary to understand and produce digital media. Fundamentals of programming are covered as well as analysis of how media are represented and transmitted in digital form.
+
 ThreeFast3Furious README
 
-Names: Christopher Chan, Stephanie Ino, Anthony Le, Wilson Zhu
+Names: Christopher Chan, Anthony Le, Wilson Zhu
 
 Please have capslock off
 w = Move up
